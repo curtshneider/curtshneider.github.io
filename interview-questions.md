@@ -1,3 +1,8 @@
+---
+Layout: default
+title: Interview Questions
+---
+
 # Interview Questions
 
 A collection of original and linked interview questions that I like.

@@ -1,3 +1,8 @@
+---
+Layout: default
+title: Remote Work
+---
+
 # Remote Work
 
 I've worked remotely for three years and also been required to go into an office. What's right for you as an individual and the company depends on how you, the team, and the company operate. 
