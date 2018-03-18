@@ -52,7 +52,7 @@ This is a section for me to write my thoughts down. It helps to keep track of it
 Below is a real-life example of my notes from a previous interview, sanitized and blinded, of course.
 
 > Previous agile experience. No experience with SAFe. Balanced new feature development and production support. Asked good questions about priority. Focused on team interactions and build.
-
+>
 > Got on some werid topics. Initially, I agreed with almost all of what was said but when pressed for more specifics, I really started to question approaches and ability to work with the team.
 >
 > Sensed multiple previous dev-qa disagreements and explained how I would prefer product owners and scrummasters to be involved.
@@ -60,12 +60,12 @@ Below is a real-life example of my notes from a previous interview, sanitized an
 > Had to re-ask questions to have the appropriate answer given.
 >
 > Pros:
-> + API Testing experience
-> + Automation experience
-> + Seemed very competent
+> * API Testing experience
+> * Automation experience
+> * Seemed very competent
 >
 > Cons:
-> - Almost not mention of customers unless I brought it up
-> - Seemed a bit aloof
-> - No usability testing
-> - Little accessibility testing
+> * Almost not mention of customers unless I brought it up
+> * Seemed a bit aloof
+> * No usability testing
+> * Little accessibility testing
