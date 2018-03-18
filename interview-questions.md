@@ -13,7 +13,6 @@ I like these questions as touch on important aspects of the individual's fit for
 
 
 #### Learning and Development
-<<<<<<< HEAD
 * What have you recently learned? (1) 
 * How do you learn best? (1) 
 * When do you ask for help? (1) 
