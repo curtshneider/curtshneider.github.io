@@ -1,3 +1,8 @@
+---
+Layout: default
+title: On Hiring
+---
+
 # On Hiring
 
 Hiring the wrong candidate is a drain on productivity, team morale, and costs unneccesary money. To help identify the right candidate, I try and answer the below questions using this scale.
