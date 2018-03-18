@@ -3,7 +3,7 @@ Layout: default
 title: On Hiring
 ---
 
-# On Hiring
+## On Hiring
 
 Hiring the wrong candidate is a drain on productivity, team morale, and costs unneccesary money. To help identify the right candidate, I try and answer the below questions using this scale.
 
@@ -16,14 +16,14 @@ Hiring the wrong candidate is a drain on productivity, team morale, and costs un
 
 
 
-### Customer First
+#### Customer First
 Customers are the heart and soul of every business. Whether you're hiring for a sales position or an internal technical support position, every single position should understand who they are trying to delight. 
 
 * Is there a sense of our customers (primary and secondary)?
 * Is there a past track record of delighting customers?
 * Does the candiditate speak positively or passionately about customers?
 
-### Team Fit
+#### Team Fit
 * Are they a happy person?
 * Will they play well with others?
 * Are they humble?
@@ -34,19 +34,19 @@ Customers are the heart and soul of every business. Whether you're hiring for a 
 * Do they have a fun personality?
 * How do they prioritize work? (Autonomy)
 
-### Personal Growth
+#### Personal Growth
 * How does this position fit in their career trajectory?
 * Will they have room to grow?
 * Why here and why this team? (Purpose)
 * How much do they learn? 
 
-### Intangibles
+#### Intangibles
 * Will they raise all ships?
 * Are they a "so-so" hire?
 * Do they like the work?
 * Do they like the people?
 
-### Notes
+#### Notes
 This is a section for me to write my thoughts down. It helps to keep track of items not listed above. 
 
 Below is a real-life example of my notes from a previous interview, sanitized and blinded, of course.

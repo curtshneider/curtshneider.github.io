@@ -3,7 +3,7 @@ Layout: default
 title: Interview Questions
 ---
 
-# Interview Questions
+## Interview Questions
 
 A collection of original and linked interview questions that I like.
 
@@ -12,12 +12,12 @@ If you're interviewing for a product role and looking for questions to ask the i
 I like these questions as touch on important aspects of the individual's fit for a position and organization. 
 
 
-## Learning and Development
+#### Learning and Development
 * What have you recently learned? [1](#1) 
 * How do you learn best? [1](#1) 
 * When do you ask for help? [1](#1) 
 
-## Teamwork
+### Teamwork
 * Tell me about a time you've worked with other teammates to achieve something you were proud of? [1](#1) 
 * How would your teammates describe you? [1](#1) 
 * How do you resolve conlict within a team? [1](#1) 
@@ -26,7 +26,7 @@ I like these questions as touch on important aspects of the individual's fit for
 * Who is your favorite teammates and why? [4](#4)
 * How do you work with (name another department)? [5](#5)
 
-## Leadership
+#### Leadership
 * Tell me about a time you were given an ambiguous assignment. What was the ask and how did you go about removing ambiguity? [1](#1) 
 * Tell me about a time when a feature did not pan out, for whatever reason. Knowing what you know now, what would you have done differently? [1](#1) 
 * How do you put the customer first? [1](#1) 
@@ -36,7 +36,7 @@ I like these questions as touch on important aspects of the individual's fit for
 * Walk me through a time where you figured out what to build. How did you get to the decision to move forward? What was that process? What was the outcome? [6](#6)
 * Walk me through a successful major project you were heavily involved in, and tell me about your role throughout the project. [6](#6)
 
-## Technology Choices
+#### Technology Choices
 * What are some good practices you do while developing features? [1](#1) 
 * How do you approach refactoring and iterative development? [1](#1) 
 * How do you evaluate and decide on using technology choices? [1](#1) 
@@ -47,7 +47,7 @@ I like these questions as touch on important aspects of the individual's fit for
 * How do you decide when a service should be outsourced or built internally? [5](#5)
 * How do you monitor performance and measure success? [5](#5)
 
-## Lean Methods
+#### Lean Methods
 * Tell me about how you iterate on development to deliver features, modules, or products? [1](#1) 
 * What makes a good user story? [1](#1) 
 * Tell me about how you like to participate in refinement? [1](#1) 
@@ -55,7 +55,7 @@ I like these questions as touch on important aspects of the individual's fit for
 * How do you approach trade-offs during development? (Examples being feature functionality, technical debt, bugs fixes, scope, etc...) [1](#1) 
 
 
-## Culture
+#### Culture
 * Are you a happy person? [1](#1) 
 * What have you experienced that's contributed positively to team and organizational culture? [1](#1)  
 * Describe the work environment in which you'll most effectively contribute? [1](#1) 
@@ -67,7 +67,7 @@ I like these questions as touch on important aspects of the individual's fit for
 * How do they embrace diversity and inclusion? [3](#3)
 
 
-### Sources:
+#### Sources:
 [1]: Original or unknown sources
 [2]: via [First Round](http://firstround.com/review/the-best-interview-questions-weve-ever-published/ "via First Round")
 [3]: via [Managed by Q](https://allhands.managedbyq.com/article/eight-interview-questions-to-understand-company-culture "via Managed by Q")
