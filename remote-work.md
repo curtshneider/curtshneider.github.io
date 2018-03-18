@@ -36,6 +36,6 @@ An article that talks about the continuum being centralized in a single office t
 
 A list of other posts about working remotely: 
 
-* http://blog.aha.io/how-to-run-a-remote-team-meeting/
-* https://www.simple.com/company/a-life-of-screens-managing-an-all-remote-team
-* https://about.gitlab.com/2015/04/08/the-remote-manifesto/
+* [Aha: How to run a remote team meeting](http://blog.aha.io/how-to-run-a-remote-team-meeting/)
+* [Simple: Managing an all remote team](https://www.simple.com/company/a-life-of-screens-managing-an-all-remote-team)
+* [Gitlab: Remote Manifesto](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
