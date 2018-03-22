@@ -1,5 +1,6 @@
 ---
 Layout: default
+custom_print_css: print-interview-questions
 title: Interview Questions
 ---
 
@@ -20,7 +21,7 @@ I like these questions as touch on important aspects of the individual's fit for
 ### Teamwork
 * Tell me about a time you've worked with other teammates to achieve something you were proud of? (1) 
 * How would your teammates describe you? (1) 
-* How do you resolve conlict within a team? (1) 
+* How do you resolve conflict within a team? (1) 
 * Tell me about how you've collaborated with other members of the team to complete a user story? (1) 
 * When working on a team, what's hardest for you? (2)
 * Who is your favorite teammates and why? (4)

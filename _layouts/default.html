@@ -16,6 +16,14 @@
 
 		<!-- Site Specific Stylesheet -->
 		<link rel="stylesheet" href="/css/a-copy.css" type="text/css" />
+		
+		<!-- Custom Page Specific Stylesheet -->	
+			{% if page.custom_print_css %}
+			  {% for stylesheet in page.custom_print_css %}
+			  <link rel="stylesheet" href="/css/{{ stylesheet }}.css" media="print" type="text/css">
+			  {% endfor %}
+			{% endif %}
+
 
 	    <title>{{ page.title }}</title>
 	</head>
