@@ -1,10 +1,13 @@
 body {
 	background: #fafafa;
+	color: #333333;
 }
 
 nav {background: #ffffff;}
 
 #site-nav {background: #fafafa;}
+
+#site-nav ul li.nav-item a.active {color: #333333 !important;}
 
 footer	{
 	margin: 3rem 0 0 0;

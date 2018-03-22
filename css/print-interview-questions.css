@@ -7,7 +7,7 @@
 	nav, 
 	footer {display: none;}
 
-	h2, h3 {page-break-after: avoid;}
+	h2, h3, h4 {page-break-after: avoid;}
 
 	ul {page-break-inside: avoid;}
 
