@@ -10,13 +10,14 @@ A collection of original and linked interview questions that I like.
 
 If you're interviewing for a product role and looking for questions to ask the individual interviewing you, read [John Cutler's post](https://medium.com/@johnpcutler/21-questions-for-your-pm-role-interviewer-70827b21a85 "John Cutler's 21 Questions for your PM Role Interviewer")
 
-I like these questions as touch on important aspects of the individual's fit for a position and organization. 
+I like these questions as they touch on important aspects of the individual's fit for a position and organization. 
 
 
 #### Learning and Development
 * What have you recently learned? (1) 
 * How do you learn best? (1) 
 * When do you ask for help? (1) 
+* How do you stay current on the latest trends? (1)
 
 #### Teamwork
 * Tell me about a time you've worked with other teammates to achieve something you were proud of? (1) 
@@ -54,6 +55,7 @@ I like these questions as touch on important aspects of the individual's fit for
 * Tell me about how you like to participate in refinement? (1) 
 * Tell me about how you go about breaking items up into achievable chunks of work. (1)  
 * How do you approach trade-offs during development? (Examples being feature functionality, technical debt, bugs fixes, scope, etc...) (1) 
+* Can you describe your current agile environment? Are there changes you would like to see made to make it better? (1)
 
 
 #### Culture
