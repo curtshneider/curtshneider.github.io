@@ -14,8 +14,6 @@ Hiring the wrong candidate is a drain on productivity, team morale, and costs un
 * 4 - Above Average
 * 5 - Excellent
 
-
-
 #### Customer First
 Customers are the heart and soul of every business. Whether you're hiring for a sales position or an internal technical support position, every single position should understand who they are trying to delight. 
 

@@ -8,7 +8,7 @@ title: Interview Questions
 
 A collection of original and linked interview questions that I like.
 
-If you're interviewing for a product role and looking for questions to ask the individual interviewing you, read [John Cutler's post](https://medium.com/@johnpcutler/21-questions-for-your-pm-role-interviewer-70827b21a85 "John Cutler's 21 Questions for your PM Role Interviewer")
+If you're interviewing for a product role and looking for questions to ask the individual interviewing you, read [John Cutler's post](https://medium.com/@johnpcutler/21-questions-for-your-pm-role-interviewer-70827b21a85 "John Cutler's 21 Questions for your PM Role Interviewer").
 
 I like these questions as they touch on important aspects of the individual's fit for a position and organization. 
 
@@ -20,12 +20,12 @@ I like these questions as they touch on important aspects of the individual's fi
 * How do you stay current on the latest trends? (1)
 
 #### Teamwork
-* Tell me about a time you've worked with other teammates to achieve something you were proud of? (1) 
+* Tell me about a time you've worked with other teammates to achieve something you are proud of? (1) 
 * How would your teammates describe you? (1) 
 * How do you resolve conflict within a team? (1) 
 * Tell me about how you've collaborated with other members of the team to complete a user story? (1) 
-* When working on a team, what's hardest for you? (2)
-* Who is your favorite teammates and why? (4)
+* When working on a team, what's easiest and hardest for you? (2)
+* Who are your favorite teammates and why? (4)
 * How do you work with (name another department)? (5)
 
 #### Leadership
@@ -44,7 +44,7 @@ I like these questions as they touch on important aspects of the individual's fi
 * How do you evaluate and decide on using technology choices? (1) 
 * What are some challenges and opportunities when working with front-end frameworks? (1) 
 * Where do you feel the balance of automated and manual testing should be? (1) 
-* What product are you most proud of launching? Which did you learn from the most?
+* What product are you most proud of launching? What did you learn from launching it? (1)
 * How do you prioritize your backlog / feature requests? (5)
 * How do you decide when a service should be outsourced or built internally? (5)
 * How do you monitor performance and measure success? (5)
@@ -60,7 +60,7 @@ I like these questions as they touch on important aspects of the individual's fi
 
 #### Culture
 * Are you a happy person? (1) 
-* What have you experienced that's contributed positively to team and organizational culture? (1)  
+* How do you contribute positively to team and organizational culture? (1)  
 * Describe the work environment in which you'll most effectively contribute? (1) 
 * What new things have you tried recently? (2)
 * What do most employees do for lunch? (3) 
