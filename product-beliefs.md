@@ -21,3 +21,8 @@ When developing products:
 * Scope is not an excuse for poor quality.
 * Establish champions.
 * Trust your reference customers but be willing to build something different.
+* Don't compromise on quality.
+* Iterate quickly. 
+* Prototype cheaply.
+* Solve problems.
+* Have fun.
