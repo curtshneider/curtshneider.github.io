@@ -12,12 +12,12 @@ If you're interviewing for a product role and looking for questions to ask the i
 
 I like these questions as they touch on important aspects of the individual's fit for a position and organization. 
 
-
 #### Learning and Development
 * What have you recently learned? (1) 
 * How do you learn best? (1) 
 * When do you ask for help? (1) 
 * How do you stay current on the latest trends? (1)
+* What are you currently working on getting better at? ()
 
 #### Teamwork
 * Tell me about a time you've worked with other teammates to achieve something you are proud of? (1) 
@@ -27,6 +27,7 @@ I like these questions as they touch on important aspects of the individual's fi
 * When working on a team, what's easiest and hardest for you? (2)
 * Who are your favorite teammates and why? (4)
 * How do you work with (name another department)? (5)
+* Tell me about the teams. (1)
 
 #### Leadership
 * Tell me about a time you were given an ambiguous assignment. What was the ask and how did you go about removing ambiguity? (1) 
@@ -37,6 +38,8 @@ I like these questions as they touch on important aspects of the individual's fi
 * If you were to change anything about the project, what would you have done differently and why? (6)
 * Walk me through a time where you figured out what to build. How did you get to the decision to move forward? What was that process? What was the outcome? (6)
 * Walk me through a successful major project you were heavily involved in, and tell me about your role throughout the project. (6)
+* Describe a project that wasn't successful. Who's to blame? What would you do differently? What did you learn? (1)
+* When and how did you promote a product idea to gain buy-in with the various teams and stakeholders? (1)
 
 #### Technology Choices
 * What are some good practices you do while developing features? (1) 
@@ -48,6 +51,7 @@ I like these questions as they touch on important aspects of the individual's fi
 * How do you prioritize your backlog / feature requests? (5)
 * How do you decide when a service should be outsourced or built internally? (5)
 * How do you monitor performance and measure success? (5)
+* What's the technical debt like for the product or company? (7)
 
 #### Lean Methods
 * Tell me about how you iterate on development to deliver features, modules, or products? (1) 
@@ -56,19 +60,17 @@ I like these questions as they touch on important aspects of the individual's fi
 * Tell me about how you go about breaking items up into achievable chunks of work. (1)  
 * How do you approach trade-offs during development? (Examples being feature functionality, technical debt, bugs fixes, scope, etc...) (1) 
 * Can you describe your current agile environment? Are there changes you would like to see made to make it better? (1)
-
+* What are some of the differences between B2C and B2B and B2B2C, specifically as they relate to planning and adoption activities? (1)
 
 #### Culture
 * Are you a happy person? (1) 
-* How do you contribute positively to team and organizational culture? (1)  
-* Describe the work environment in which you'll most effectively contribute? (1) 
+* How do you contribute positively to team and organizational culture? (1)* Describe the work environment in which you'll most effectively contribute? (1) 
 * What new things have you tried recently? (2)
 * What do most employees do for lunch? (3) 
 * Can I take an office tour? (3)
 * How does this role fit into the overall company goals? (3)
 * What are the growth opportunities like? (3)
 * How do they embrace diversity and inclusion? (3)
-
 
 #### Sources:
 (1): Original or unknown sources
@@ -77,3 +79,4 @@ I like these questions as they touch on important aspects of the individual's fi
 (4): via [Moonlight Graham Show podcast](https://www.moonlightgrahamshow.com "via Moonlight Graham Show")
 (5): via [Catherine (Kit) Ulrich](https://hackernoon.com/interview-questions-for-the-6-types-of-product-managers-586f09a17fff "via Catherine (Kit) Ulrich")
 (6): via [Brent Tworetzky](https://medium.com/pminsider/interviewing-product-managers-94fbe6971600 "via Brent Tworetzky")
+(7): via [Thayer Prime](https://twitter.com/Thayer/status/1024587546645471233 "via Thayer Prime")
