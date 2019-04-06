@@ -64,3 +64,32 @@ a:active {color: #194EB2 !important;}
 	.container-fluid {max-width: 65rem;} /* 1200px / 16px = 75em -12em (6em padding on R and L) */
 
 }
+
+/*	 	Dark Mode  		*/
+@media (prefers-color-scheme: dark) {
+
+	body {
+		background-color: #1D1D1D;
+		color: #bfbfbf;
+	} 
+
+	nav {background: #333333;}
+
+	#site-nav {background: #1D1D1D;}
+
+	#site-nav ul li.nav-item a.active {color: #999999 !important;}
+
+	h1, h2, h3, h4, h5, h6 {color: #E5E5E5;}
+
+	a:hover {color: #98BCFC !important;}
+
+	a:active {color: #cbddfd !important;}
+
+	.fa-2x {color: #E5E5E5;}
+
+	footer	{
+		background-color: #000000;
+		color: #bfbfbf;
+	}
+
+}
