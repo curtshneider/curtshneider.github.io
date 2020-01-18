@@ -5,7 +5,7 @@ title: Remote Work
 
 ## Remote Work
 
-I've worked remotely for three years. I've also had to go into an office every day. What's right for you as an individual and the company depends on how you, the team, and the company operate. 
+I've worked remotely for more than three years. I've also had to go into an office every day. What's right for you as an individual and the company depends on how you, the team, and the company operate. 
 
 Whether you're a full-time remote employee or you have to go into the office each day, these are some principles that I believe strengthen communication:
 
@@ -39,3 +39,5 @@ A list of other posts about working remotely:
 * [Aha: How to run a remote team meeting](http://blog.aha.io/how-to-run-a-remote-team-meeting/)
 * [Simple: Managing an all remote team](https://www.simple.com/company/a-life-of-screens-managing-an-all-remote-team)
 * [Gitlab: Remote Manifesto](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
+* [Sara Rosso: 10 Lessons from 4 Years working remotely at Automattic ](https://whenihavetime.com/2014/07/08/10-lessons-from-4-years-working-remotely/)
+* [Zapier: The ultimate guide to remote work](https://zapier.com/learn/remote-work/)
