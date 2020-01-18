@@ -5,18 +5,18 @@ title: Product Beliefs
 
 ## Product Beliefs
 
-A quick bulleted list about what I believe products should be:
+A quick bulleted list about what I believe products should embrace:
 
-* Speed is a feature.
+* Speed as a feature.
 * Quality over quantity.
-* Maintain a clean and transparent backlog.
 * Intuitive UI/UX.
 * Longer battery life is generally better.
-* Thinner can be better.
-* Make it delightful to use.
+* Thinner can be better (but not always).
+* Delightful to use.
 
 When developing products: 
 
+* Focus on your end users.
 * Always learn from your MVP.
 * Scope is not an excuse for poor quality.
 * Establish champions.
@@ -26,3 +26,8 @@ When developing products:
 * Prototype cheaply.
 * Solve problems.
 * Have fun.
+
+When managing backlogs:
+* Maintain a clean and transparent backlog.
+* Play the ticket game - connect your smallest item to your objectives.
+* Empower your team to understand the why.
